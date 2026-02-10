@@ -1,6 +1,6 @@
 # **AstroNet colab_ver3.py - Clean Structure Chart**
 
-```
+
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │                    ASTRONET: Exoplanet Detection Pipeline                   │
 │                              (907 lines)                                   │
