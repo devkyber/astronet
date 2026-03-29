@@ -2,7 +2,7 @@
 
 A modern PyTorch implementation of AstroNet for exoplanet detection in Kepler light curves, optimized for Google Colab environments.
 
-## Abstract
+## Abstract testjgodjpsaoing
 
 This repository provides a PyTorch implementation of AstroNet, a deep convolutional neural network originally developed by Google Research for detecting exoplanet transits in Kepler light curves. The colab_ver3 implementation offers enhanced features for research and practical exoplanet discovery applications, building upon the original TensorFlow work by Shallue & Vanderburg (2018) and subsequent PyTorch translation by the NASA Frontier Development Lab team.
 
